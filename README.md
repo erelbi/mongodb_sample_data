@@ -24,7 +24,7 @@ Receiving objects: 100% (57/57), 76.74 MiB | 1.81 MiB/s, done.
 Resolving deltas: 100% (3/3), done.
 Updating files: 100% (41/41), done.
 ```
-## Resote
+## Restore
 ```sh
 cd mongodb_sample_data/
 mongorestore --db sample_airbnb sample_airbnb/sample_airbnb/ &&
