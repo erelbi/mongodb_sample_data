@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"location.geo":"2dsphere"},"name":"geo index","2dsphereIndexVersion":{"$numberInt":"3"}}],"uuid":"7e34cdb909e541f88c1f29ff5b40749f","collectionName":"theaters"}
