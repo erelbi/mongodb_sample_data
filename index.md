@@ -48,8 +48,11 @@ sample_restaurants  0.006GB
 sample_training     0.039GB
 sample_weatherdata  0.002GB
 ```
+
+```sh
+mongo --quiet --eval  "printjson(db.adminCommand('listDatabases'))"
+```
 ```json
-[root@fedora mongodb_sample_data]# mongo --quiet --eval  "printjson(db.adminCommand('listDatabases'))"
 {
 	"databases" : [
 		{
