@@ -120,6 +120,8 @@ mongo --quiet --eval  "printjson(db.adminCommand('listDatabases'))"
 }
 ```
 
-
+[mongodb incremental backup](https://www.youtube.com/watch?v=EJQs6vlcBLk)
+[Mongo Exporter](https://erelbi.github.io/prometheus-grafana-mongo-exporter/)
+[Mongo Control Panel](https://erelbi.github.io/mongodb_controlpanel/)
 
 
