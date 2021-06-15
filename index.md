@@ -9,7 +9,7 @@
 </script>
 # MongoDB Training Data
 
-
+[Download Data](https://github.com/erelbi/mongodb_sample_data/archive/refs/heads/main.zip)
 > sample_airbnb
 > sample_analytics
 > sample_geospatial
